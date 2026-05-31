@@ -144,7 +144,7 @@ h3 {
 /* Hero */
 .hero {
     min-height: 85vh;
-    background: url("https://cdn.prod.website-files.com/65d562aec1adaa8cb59f2a23/686d480f4609456311b42188_mailchimp%20header%201%20(1300%20x%20700%20px).png") center/cover no-repeat;
+    background: url("../assets/images/hero-home.png") center/cover no-repeat;
 }
 
 .hero-overlay {
@@ -650,7 +650,7 @@ h3 {
 
 /* Destinations page */
 .hero-beach {
-    background-image: url("https://a.loveholidays.com/media-library/~production/95e6cc960fac6603de4702d0ae6cbaac9612fcd1-6678x4253.jpg?width=1200&height=630&fit=crop");
+    background-image: url("../assets/images/hero-destinations.jpg");
 }
 
 .filter-btn {
@@ -678,7 +678,7 @@ h3 {
 
 /* Packages page */
 .hero-packages {
-    background-image: url("https://10wallpaper.com/wallpaper/2560x1920/2501/Autumn_Italy_Dolomites_Valley_Lake_Gold_Forest_5K_2560x1920.jpg");
+    background-image: url("../assets/images/hero-packages.jpg");
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -686,7 +686,7 @@ h3 {
 
 /* About page */
 .hero-about {
-    background-image: url("https://images.squarespace-cdn.com/content/v1/6074a89f51f185176ab9632f/2be9595b-4a8f-4713-b551-02a7278ab94f/Mountain+Views.jpeg");
+    background-image: url("../assets/images/hero-about.jpeg");
 }
 
 .hero-tag {
@@ -772,7 +772,7 @@ h3 {
 /* Contact page */
 .hero-contact {
     min-height: 60vh;
-    background: url("https://adhddirect.co.uk/wp-content/uploads/2024/05/adhd-direct-travellers-guide-traveling-with-adhd.jpg") center/cover no-repeat;
+    background: url("../assets/images/hero-contact.jpg") center/cover no-repeat;
 }
 
 .hero-overlay-light {
